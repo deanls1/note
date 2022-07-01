@@ -44,7 +44,7 @@ prom/prometheus
 # 安装granafa
 ## 下载命令
 ~~~
-docker pull grafana/grafana:latest 
+docker pull grafana/grafana:latest 
 ~~~
 ## 启动命令
 ~~~
